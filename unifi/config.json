@@ -1,5 +1,5 @@
 {
-  "name": "UniFi Controller",
+  "name": "UniFi Controller Custom",
   "version": "dev",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
