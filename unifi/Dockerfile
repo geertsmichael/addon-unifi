@@ -49,7 +49,7 @@ ARG BUILD_VERSION
 
 # Labels
 LABEL \
-    io.hass.name="UniFi Controller" \
+    io.hass.name="UniFi Controller Custom" \
     io.hass.description="Manage your UniFi network using a web browser" \
     io.hass.arch="${BUILD_ARCH}" \
     io.hass.type="addon" \
